@@ -1,0 +1,16 @@
+.list{
+    color: rgb(11, 245, 11);
+}
+button{
+    Background-color:Green;
+    Border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;
+}
+section {
+    display:  inline-block;
+}
